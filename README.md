@@ -1,1 +1,1 @@
-# ERP-Inventery-Node-JS
+Inventory backend
